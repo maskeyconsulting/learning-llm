@@ -4,6 +4,11 @@ This document provides a simplified, "Explain Like I'm 5" (ELI5) overview of the
 
 This content is adapted from a more detailed learning document.
 
+#### 📚 References
+
+1. [Attention is all you need](https://arxiv.org/abs/1706.03762)
+2. [Transformers Explained: The Discovery That Changed AI Forever](https://www.youtube.com/watch?v=JZLZQVmfGn8)
+
 ---
 
 ## 📚 Table of Contents
@@ -250,13 +255,6 @@ flowchart LR
 - **Old Way (RNNs/LSTMs):** Processed words one-by-one, which was slow and had memory issues.
 - **The Breakthrough (Transformers):** Processed all words at once using "self-attention," which was faster and more effective.
 - **Result:** This architecture is the engine behind modern AI like ChatGPT, enabling a deep understanding of language.
-
----
-
-## 📚 References
-
-1. [Attention is all you need](https://arxiv.org/abs/1706.03762)
-2. [Transformers Explained: The Discovery That Changed AI Forever](https://www.youtube.com/watch?v=JZLZQVmfGn8)
 
 ---
 
